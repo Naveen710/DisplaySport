@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Error message for invalid email is:]]>
+    </line>
+    <line>
+      <![CDATA[Enter a valid email or phone number]]>
+    </line>
+    <line>
+      <![CDATA[Sports available for this weekend:]]>
+    </line>
+    <line>
+      <![CDATA[BGMI Tournament (Solo & Squad) By VP Gaming]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 100 onwards]]>
+    </line>
+    <line>
+      <![CDATA[Online Game - Lost Treasure of Sundarbans]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 199]]>
+    </line>
+    <line>
+      <![CDATA[Online Game - Flight 9032 Murder Mystery]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 199]]>
+    </line>
+    <line>
+      <![CDATA[Call of Duty Mobile Tournament]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 300 onwards]]>
+    </line>
+    <line>
+      <![CDATA[Free Fire Solo And Squad (Bermuda)]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 100 onwards]]>
+    </line>
+    <line>
+      <![CDATA[No Escape Play From Home]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 150]]>
+    </line>
+    <line>
+      <![CDATA[Johnson Call Of Duty Mobile Tournament]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 100 onwards]]>
+    </line>
+    <line>
+      <![CDATA[Call Of Duty Mobile (CODM) by Big Band Sports]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 399 onwards]]>
+    </line>
+    <line>
+      <![CDATA[Online Game - The Witch of Kahua]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 249]]>
+    </line>
+    <line>
+      <![CDATA[Battlegrounds Mobile India Tournament]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 125 onwards]]>
+    </line>
+    <line>
+      <![CDATA[Indian Chess League 2021]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 99 onwards]]>
+    </line>
+    <line>
+      <![CDATA[Online Game - The Prisoner of Andaman]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 149]]>
+    </line>
+    <line>
+      <![CDATA[Knight Chess Championship]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 125 onwards]]>
+    </line>
+    <line>
+      <![CDATA[Online Game - Mission Black Terror]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 199]]>
+    </line>
+    <line>
+      <![CDATA[DOVIC 91- Halfway through the BIO WAR Countdown]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 499]]>
+    </line>
+    <line>
+      <![CDATA[Online Game - The Mall Maze]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 149]]>
+    </line>
+    <line>
+      <![CDATA[Online Game - The Haunted Lake]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 149]]>
+    </line>
+    <line>
+      <![CDATA[Climber Fun Quiz]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 250]]>
+    </line>
+    <line>
+      <![CDATA[Online Game - Time Travel]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 199]]>
+    </line>
+    <line>
+      <![CDATA[Weekly Chess Maha Muqabla]]>
+    </line>
+    <line>
+      <![CDATA[Online (Play From Home)]]>
+    </line>
+    <line>
+      <![CDATA[E Sports]]>
+    </line>
+    <line>
+      <![CDATA[₹ 225 onwards]]>
+    </line>
+    <line>
+      <![CDATA[All available languages are:]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-07-21T19:13:10 IST" name="Default suite" finished-at="2021-07-21T19:14:56 IST" duration-ms="105544">
+    <groups>
+      <group name="Regression">
+        <method signature="SportsSearchSuite.movieSearchSuite()[pri:1, instance:com.bookmyshow.in.SportsSearchSuite@1f3f4916]" name="movieSearchSuite" class="com.bookmyshow.in.SportsSearchSuite"/>
+      </group> <!-- Regression -->
+      <group name="Smoke">
+        <method signature="SportsSearchSuite.searchSuite()[pri:0, instance:com.bookmyshow.in.SportsSearchSuite@1f3f4916]" name="searchSuite" class="com.bookmyshow.in.SportsSearchSuite"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2021-07-21T19:13:10 IST" name="Default test" finished-at="2021-07-21T19:14:56 IST" duration-ms="105544">
+      <class name="com.bookmyshow.in.SportsSearchSuite">
+        <test-method is-config="true" signature="launchBrowserAndLoadURL()[pri:0, instance:com.bookmyshow.in.SportsSearchSuite@1f3f4916]" started-at="2021-07-21T19:13:10 IST" name="launchBrowserAndLoadURL" finished-at="2021-07-21T19:13:34 IST" duration-ms="23438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserAndLoadURL -->
+        <test-method signature="searchSuite()[pri:0, instance:com.bookmyshow.in.SportsSearchSuite@1f3f4916]" started-at="2021-07-21T19:13:34 IST" name="searchSuite" finished-at="2021-07-21T19:14:34 IST" duration-ms="59731" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Error message for invalid email is:]]>
+            </line>
+            <line>
+              <![CDATA[Enter a valid email or phone number]]>
+            </line>
+            <line>
+              <![CDATA[Sports available for this weekend:]]>
+            </line>
+            <line>
+              <![CDATA[BGMI Tournament (Solo & Squad) By VP Gaming]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 100 onwards]]>
+            </line>
+            <line>
+              <![CDATA[Online Game - Lost Treasure of Sundarbans]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 199]]>
+            </line>
+            <line>
+              <![CDATA[Online Game - Flight 9032 Murder Mystery]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 199]]>
+            </line>
+            <line>
+              <![CDATA[Call of Duty Mobile Tournament]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 300 onwards]]>
+            </line>
+            <line>
+              <![CDATA[Free Fire Solo And Squad (Bermuda)]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 100 onwards]]>
+            </line>
+            <line>
+              <![CDATA[No Escape Play From Home]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 150]]>
+            </line>
+            <line>
+              <![CDATA[Johnson Call Of Duty Mobile Tournament]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 100 onwards]]>
+            </line>
+            <line>
+              <![CDATA[Call Of Duty Mobile (CODM) by Big Band Sports]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 399 onwards]]>
+            </line>
+            <line>
+              <![CDATA[Online Game - The Witch of Kahua]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 249]]>
+            </line>
+            <line>
+              <![CDATA[Battlegrounds Mobile India Tournament]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 125 onwards]]>
+            </line>
+            <line>
+              <![CDATA[Indian Chess League 2021]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 99 onwards]]>
+            </line>
+            <line>
+              <![CDATA[Online Game - The Prisoner of Andaman]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 149]]>
+            </line>
+            <line>
+              <![CDATA[Knight Chess Championship]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 125 onwards]]>
+            </line>
+            <line>
+              <![CDATA[Online Game - Mission Black Terror]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 199]]>
+            </line>
+            <line>
+              <![CDATA[DOVIC 91- Halfway through the BIO WAR Countdown]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 499]]>
+            </line>
+            <line>
+              <![CDATA[Online Game - The Mall Maze]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 149]]>
+            </line>
+            <line>
+              <![CDATA[Online Game - The Haunted Lake]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 149]]>
+            </line>
+            <line>
+              <![CDATA[Climber Fun Quiz]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 250]]>
+            </line>
+            <line>
+              <![CDATA[Online Game - Time Travel]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 199]]>
+            </line>
+            <line>
+              <![CDATA[Weekly Chess Maha Muqabla]]>
+            </line>
+            <line>
+              <![CDATA[Online (Play From Home)]]>
+            </line>
+            <line>
+              <![CDATA[E Sports]]>
+            </line>
+            <line>
+              <![CDATA[₹ 225 onwards]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchSuite -->
+        <test-method signature="movieSearchSuite()[pri:1, instance:com.bookmyshow.in.SportsSearchSuite@1f3f4916]" started-at="2021-07-21T19:14:34 IST" name="movieSearchSuite" finished-at="2021-07-21T19:14:55 IST" duration-ms="21434" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[All available languages are:]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- movieSearchSuite -->
+        <test-method is-config="true" signature="closeSuite()[pri:0, instance:com.bookmyshow.in.SportsSearchSuite@1f3f4916]" started-at="2021-07-21T19:14:55 IST" name="closeSuite" finished-at="2021-07-21T19:14:56 IST" duration-ms="800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSuite -->
+      </class> <!-- com.bookmyshow.in.SportsSearchSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

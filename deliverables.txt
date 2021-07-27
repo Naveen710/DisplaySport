@@ -1,0 +1,17 @@
+
+                                   Group 2- Display all the sports activities available in your city for coming weekend
+
+                                                                                              
+Manual Test cases - manual_test_cases
+Excel(POI) - Writexl
+Classes-*Base
+	*SportsSearch
+	*SportsSearchSuite
+Property File- InputFiles
+   
+Team Members:
+1.ANKIT KUMAR  922058
+2.CHARU CHANDRA  922035
+3.PUJA TIWARI    922036
+4.RAHUL RANJAN MAHATO 922055
+SACHIN KUMAR   922064
